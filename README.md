@@ -96,7 +96,7 @@ Includes **gradient norm visualizations** per layer to see the problem directly.
 
 ```bash
 # Clone the repo
-git clone https://github.com/YOUR_USERNAME/deep-learning-fundamentals.git
+git clone https://github.com/beelkaa/deep-learning-fundamentals.git
 cd deep-learning-fundamentals
 
 # Install dependencies
